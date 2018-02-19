@@ -16,4 +16,5 @@ This notebook is a Python based implementation of the ml-deepdive series, taken 
     * http://www.deeplearningbook.org/contents/ml.html (optional)
     * http://students.brown.edu/seeing-theory/#firstPage (A little basic but fun)
     * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ (again, a little basic, but fun)
+    * [3Blue1Brown - Linear Algebra Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 2. Linear Regression and Logistic Regression
