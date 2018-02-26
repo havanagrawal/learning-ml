@@ -18,3 +18,5 @@ This notebook is a Python based implementation of the ml-deepdive series, taken 
     * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ (again, a little basic, but fun)
     * [3Blue1Brown - Linear Algebra Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 2. Linear Regression and Logistic Regression
+    * [Use of Adjusted R-Squared](http://blog.minitab.com/blog/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables)
+    * [Derivation of the Normal Equation](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression)
