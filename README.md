@@ -20,3 +20,9 @@ This notebook is a Python based implementation of the ml-deepdive series, taken 
 2. Linear Regression and Logistic Regression
     * [Use of Adjusted R-Squared](http://blog.minitab.com/blog/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables)
     * [Derivation of the Normal Equation](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression)
+
+## Textbooks and Other Resources
+
+1. [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+2. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+3. [Machine Learning Series - Paul. G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
