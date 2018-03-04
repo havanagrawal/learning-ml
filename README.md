@@ -20,6 +20,12 @@ This notebook is a Python based implementation of the ml-deepdive series, taken 
 2. Linear Regression and Logistic Regression
     * [Use of Adjusted R-Squared](http://blog.minitab.com/blog/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables)
     * [Derivation of the Normal Equation](https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression)
+3. Decision Trees and Random Forests
+   * http://scikit-learn.org/stable/modules/tree.html
+   * https://web.stanford.edu/class/stats202/content/lec19.pdf
+   * [Gentle Intro to Bagging - I](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
+   * [Gentle Intro to Bagging - II](https://www.youtube.com/watch?v=sVriC_Ys2cw)
+   * https://www.datascience.com/resources/notebooks/random-forest-intro
 
 ## Textbooks and Other Resources
 
