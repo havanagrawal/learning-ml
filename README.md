@@ -29,6 +29,7 @@ This repo is a collection of notebooks that contain Python based implementations
 3. [Logistic Regression](./03%20-%20Logistic%20Regression.ipynb)
    * https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/pdfs/40%20LogisticRegression.pdf
    * https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
+   * https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression
 
 ## Textbooks and Other Resources
 
