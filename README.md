@@ -30,6 +30,10 @@ This repo is a collection of notebooks that contain Python based implementations
    * https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/pdfs/40%20LogisticRegression.pdf
    * https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
    * https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression
+4. [Clustering](./04%20-%20Clustering.ipynb)
+   * https://en.wikipedia.org/wiki/Cluster_analysis
+   * https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning#clustering
+
 
 ## Textbooks and Other Resources
 
